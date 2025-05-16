@@ -2,8 +2,8 @@
 
 ## Over Mij
 
-<p style="max-width: 99%; margin-left: 20px; margin-top: 35px;"> Met meer dan 15 jaar ervaring in de ICT-sector heb ik mijn carrière gewijd aan het beheren en optimaliseren van netwerken voor bedrijven, het oplossen van complexe ICT-uitdagingen, en het delen van mijn kennis via training en coaching. Mijn expertise strekt zich uit over netwerkbeheer, troubleshooting van complexe infrastructuren, en het ontwikkelen van efficiënte oplossingen op maat voor diverse klantbehoeften. Door mijn werkervaring bij Proximus en mijn betrokkenheid bij grootschalige projecten, zoals netwerkupgrades voor Delhaize, heb ik een diepgaande kennis opgebouwd in technologieën zoals LAN, WAN, SD-WAN, en VoIP.</p>
-<p style="max-width: 99%; margin-left: 20px;">Mijn vaardigheden gaan verder dan enkel technische ondersteuning: ik ontwikkel interactieve trainingen, leid webinars en workshops, en werk intensief met CPE-configuraties (Cisco, Huawei, Technicolor). Ook schrijf ik scripts in talen als Python en Bash om processen te automatiseren en de efficiëntie te verhogen. Met een klantgerichte en analytische benadering ondersteun ik zowel veld- als remote-technici en werk ik samen aan projecten die de grenzen van ICT-innovatie verleggen.</p>
+<p style="max-width: 99%; margin-left: 20px; margin-top: 35px;"> Ik ben een gemotiveerde student in de richting Systeem- en Netwerkbeheer aan Hogeschool PXL. Tijdens mijn opleiding leer ik stap voor stap hoe IT-netwerken worden opgebouwd, beheerd en beveiligd. Ik werk graag hands-on met systemen, los graag technische problemen op en ben nieuwsgierig naar hoe alles ‘achter de schermen’ werkt in een netwerk. Door praktijkgerichte projecten en stages leer ik niet alleen technische kennis, maar ook samenwerken en communiceren in een professionele omgeving. In de toekomst wil ik mezelf verder ontwikkelen als IT-professional die mee kan bouwen aan stabiele en slimme digitale oplossingen..</p>
+<p style="max-width: 99%; margin-left: 20px;">Tijdens mijn opleiding leer ik hoe je computers en netwerken installeert, beheert en beveiligt. Ik oefen met echte systemen en leer werken met tools die vaak in bedrijven worden gebruikt. Ik los graag problemen op en zoek altijd naar een slimme oplossing. Ook leer ik hoe je kleine taken kunt automatiseren. Zo bouw ik stap voor stap de kennis op die ik later nodig heb voor een job in de IT.</p>
 <p style="max-width: 99%; margin-left: 20px;">Mijn doel is om mijn technische kennis en ervaring verder uit te breiden, met als uiteindelijke ambitie om een Google Data Network Architect te worden.</p><br>
 
 ---
@@ -29,9 +29,9 @@ Website: <a href="https://webpage...."> 🐙Linkedin 🐙</a><br><br>
 ### CV
 <br>
 <center>
-  <object data="./assets/cv_bjorn_mijs.pdf" type="application/pdf" width="96.5%" style="height: 79vh;">
-   <embed src="./assets/cv_student_pxl.pdf">
-      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/cv_student_pxl.pdf">Download PDF</a>.</p>
+  <object data="./assets/rassoulov_eldar_cv.pdf" type="application/pdf" width="96.5%" style="height: 79vh;">
+   <embed src="./assets/rassoulov_eldar_cv.pdf">
+      <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./assets/rassoulov_eldar_cv.pdf">Download PDF</a>.</p>
     </embed>
   </object>
 </center>
