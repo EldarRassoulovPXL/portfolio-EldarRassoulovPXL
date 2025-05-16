@@ -1,5 +1,3 @@
-
-
 ![pxl right](./images/pxl.png)
 # Portfolio
 ## Informatie <!-- {docsify-ignore} -->
@@ -29,5 +27,4 @@ Het portfolio bestaat uit 5 delen:
 Elk van deze delen moet voorkomen in jouw portfolio. De uitleg wat er in elk deel moet staan vind je terug in de <a rel="license" href="#/Wiki/Home.md">📒 wiki</a>
 
 =======
-# portfolio-EldarRassoulovPXL
->>>>>>> 953b07b261be70fcd223a00555f483c2d29a3b72
+
