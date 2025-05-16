@@ -2,7 +2,6 @@
 * [Home](/)
 * Introductie
   * [Inleiding](Intro/intro.md)
-  * [Persoonlijke info](Intro/persoonlijke-info.md)
 * [Logboek werkplekleren](./Logboek/Logboek.md)
 * [Overzicht Ontwikkelingsgesprekken](./Ontwikkelingsgesprekken/Ontwikkelingsgesprekken.md)
 * [Opdrachten](./Opdrachten/Opdrachten.md)
