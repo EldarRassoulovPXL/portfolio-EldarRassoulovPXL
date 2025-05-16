@@ -1,22 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Portfolio Eldar</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
-</head>
-<body>
-  <div id="app">Laden...</div>
+# 👋 Welkom op mijn portfolio
 
-  <script>
-    window.$docsify = {
-      loadSidebar: true,
-      subMaxLevel: 2,
-    };
-  </script>
+Mijn naam is **Eldar Rassoulov**, student Systeem- en Netwerkbeheer aan PXL. Op deze pagina krijg je een overzicht van mijn ontwikkeling, projecten en ervaring tijdens de opleiding.  
+Hier deel ik niet alleen mijn technische vaardigheden, maar ook mijn groei als IT-professional in spe.
 
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-</body>
-</html>
+Je vindt hier mijn **cv**, een **logboek van mijn werkplekleren**, opdrachten waar ik trots op ben, en mijn eigen **reflectie op de afgelegde weg**.
 
+Veel leesplezier — en aarzel niet om contact op te nemen bij vragen of opmerkingen!
