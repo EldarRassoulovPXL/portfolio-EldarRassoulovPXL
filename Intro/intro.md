@@ -95,11 +95,17 @@ Installatie en beveiliging van systemen.<br><br></p>
 
 #### Soft Skills
 
-- <p style="max-width: 91%; margin-top: 29px;"><b>Communicatie:</b></i> **Vermogen om complexe technische concepten duidelijk uit te leggen aan zowel technische als niet-technische teams.<br>
-- <b>Samenwerking:</b></i> Sterke samenwerkingsvaardigheden om effectief met cross-functionele teams te werken.<br><br>
-- <b>Probleemoplossend vermogen:</b></i> Creatief en analytisch denken om innovatieve netwerkoplossingen te bedenken.<br><br>
-- <b>Leiderschap:</b></i> Vermogen om projectteams te leiden en netwerkstrategieën te implementeren.<br><br>
-- <b>Aanpassingsvermogen:</b></i> Flexibel om snel te reageren op veranderingen en nieuwe technologieën.<br><br>
-- <b>Innovatiegerichtheid:</b></i> Continu streven naar verbeteringen en nieuwe technologieën omarmen**.</p>
+- <p style="max-width: 91%; margin-top: 29px;"><b>🤝 Soft Skills
+Communicatief
+
+Teamgericht
+
+Klantvriendelijk
+
+Zelfstandig werken
+
+Leervermogen en aanpassingsvermogen<br><br></p>
+
+
 
 </details>
