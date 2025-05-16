@@ -18,6 +18,20 @@ Ik zie mezelf later werken in een functie waar ik zowel met techniek bezig ben a
 
 ## Mijn evolutie tijdens WPL1
 
+<p style="max-width: 97%;"> Tijdens Werkplekleren 1 heb ik een aantal dingen geleerd die voor mij echt belangrijk waren. Eén daarvan is het belang van goed plannen. Door mijn studiemomenten op tijd in te delen, kon ik beter overzicht houden en stress vermijden.
+
+Daarnaast heb ik gemerkt dat informatie niet alleen uit de cursus komt. Vaak vond ik extra uitleg of oplossingen online, via documentatie of fora. Dat heeft me geholpen om zelfstandiger te werken en zelf op zoek te gaan naar antwoorden.
+
+Tot slot heb ik ook geleerd om samen te werken met verschillende mensen, elk met hun eigen manier van werken of communiceren. Door goed af te stemmen en taken te verdelen, liep alles vlotter en was het resultaat beter.</p>
+
+## Dit zijn mijn ontwikkelpunten waarin ik tijdens WPL2 beter hoop te worden
+
+<p style="max-width: 97%;"> Tijdens WPL2 wil ik mezelf graag verder ontwikkelen in een paar dingen waar ik nog in wil groeien.
+
+Eén van die punten is dat ik de theorie uit de lessen beter wil leren toepassen in de praktijk. Soms begrijp ik de uitleg wel, maar vind ik het nog lastig om die kennis zelfstandig om te zetten naar een echte oplossing of opdracht. Daar wil ik sterker in worden.
+
+Daarnaast wil ik werken aan mijn presentatievaardigheden. Voor een groep spreken vind ik nog wat spannend, maar ik wil daar zeker in verbeteren zodat ik mijn werk en ideeën zelfverzekerder kan uitleggen.</p>
+
 ## Overzicht ontwikkelingsgesprekken WPL 1
 
 ## Overzicht ontwikkelingsgesprekken WPL 2
