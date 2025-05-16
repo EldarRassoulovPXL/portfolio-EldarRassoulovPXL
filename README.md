@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![pxl right](./images/pxl.png)
 # Portfolio
 ## Informatie <!-- {docsify-ignore} -->
@@ -30,3 +31,15 @@ Elk van deze delen moet voorkomen in jouw portfolio. De uitleg wat er in elk dee
 Een hulpmiddel aanbieden bij de reflectie op jouw leer- en werkervaring tijdens je werkplekleren. Je zal je volledige verloop in WPL in beeld brengen en zo je eigen leerproces kunnen zien. Op het einde van je graduaat zie je dan hoe het staat met je ontwikkeling, kan je al je keuzes verantwoorden en kan je je plannen toelichten voor de toekomst. 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /> Content on this site is licenced under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International licence</a>.
+=======
+# Portfolio EldarRassoulovPXL
+
+# 👋 Welkom op mijn portfolio
+
+Mijn naam is **Eldar Rassoulov**, student Systeem- en Netwerkbeheer aan PXL. Op deze pagina krijg je een overzicht van mijn ontwikkeling, projecten en ervaring tijdens de opleiding.  
+Hier deel ik niet alleen mijn technische vaardigheden, maar ook mijn groei als IT-professional in spe.
+
+Je vindt hier mijn **cv**, een **logboek van mijn werkplekleren**, opdrachten waar ik trots op ben, en mijn eigen **reflectie op de afgelegde weg**.
+
+Veel leesplezier — en aarzel niet om contact op te nemen bij vragen of opmerkingen!
+>>>>>>> 44a7b728b3c3248df21aec8decfc2f963c35aec0
