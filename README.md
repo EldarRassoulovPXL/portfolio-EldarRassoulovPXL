@@ -25,6 +25,3 @@ Het portfolio bestaat uit 5 delen:
 * Reflectie
 
 Elk van deze delen moet voorkomen in jouw portfolio. De uitleg wat er in elk deel moet staan vind je terug in de <a rel="license" href="#/Wiki/Home.md">📒 wiki</a>
-
-=======
-
