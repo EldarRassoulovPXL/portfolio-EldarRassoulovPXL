@@ -2,17 +2,19 @@
 
 ## Mijn keuze voor de opleiding
 
-<p style="max-width: 97%;"> Ik heb gekozen voor de opleiding "Systemen en Netwerken" vanwege mijn interesse in netwerken en systeembeheer, vooral het managen van complexe ICT-infrastructuren en het oplossen van technische uitdagingen. Het deel van de opleiding dat mij het meest interesseert, is cloud computing, netwerkarchitectuur en systeemoptimalisatie. </p>
+<p style="max-width: 97%;"> Ik heb gekozen voor de richting Systemen en Netwerken omdat ik altijd al geïnteresseerd ben geweest in computers, netwerken en hoe alles technisch in elkaar zit. Het leek me logisch om iets te studeren waar ik graag mee bezig ben en tegelijk iets waar veel werk in te vinden is.
 
-<p style="max-width: 97%;">Later zie ik mezelf werken als Google Cloud Architect in een toonaangevende technologieorganisatie. Deze rol past goed bij mij vanwege mijn technische expertise, passie voor innovatie en mijn probleemoplossende vaardigheden. Ik geloof dat mijn ervaring in netwerkbeheer, troubleshooting en cloudtechnologieën mij goed voorbereidt op deze functie.</p>
+Wat mij het meeste aanspreekt in de opleiding zijn de lessen over netwerken, cloudtoepassingen en hoe je systemen beter en veiliger kan laten werken. Dat zijn dingen die ik ook later graag wil blijven doen.
+
+Op lange termijn zie ik mezelf werken in een IT-functie waar ik netwerken en systemen kan beheren, problemen kan oplossen en blijf bijleren over nieuwe technologieën. </p>
 
 ## Mijn beeld van dit beroep
 
-<p style="max-width: 97%;">Als Google Cloud Architect zie ik mezelf verantwoordelijk voor het ontwerpen, implementeren en beheren van cloudinfrastructuren voor organisaties. Het beroep vereist diepgaande kennis van cloudplatforms, netwerkinfrastructuren, en het vermogen om technische oplossingen te vertalen naar bedrijfsbehoeften.</p>
+<p style="max-width: 97%;">Tijdens mijn opleiding Systemen en Netwerken heb ik een beter beeld gekregen van wat het betekent om in de IT-sector te werken. Het gaat niet alleen om computers of kabels aansluiten, maar vooral om problemen oplossen, systemen draaiende houden en meedenken met gebruikers of collega’s.
 
-<p style="max-width: 97%;">Tijdens WerkPlekLeren 1 heb ik gezien dat de rol van Cloud Architect niet alleen draait om technologie, maar ook om het begrijpen van klantbehoeften en het ontwikkelen van schaalbare en veilige oplossingen. Ik heb geleerd dat het belangrijk is om up-to-date te blijven met de nieuwste cloudtechnologieën, zoals Kubernetes, containerization en serverless computing. De gastseminaries en opdrachten gaven me inzicht in de veelzijdigheid van het werk, van het opzetten van netwerkarchitecturen tot het beheren van beveiligingsprotocollen in de cloud.</p>
+Wat me is opgevallen tijdens de lessen en projecten, is dat je in dit beroep vaak samenwerkt met anderen. Je moet dus niet alleen technisch zijn, maar ook goed kunnen communiceren. Bijvoorbeeld als iemand in een bedrijf een probleem heeft met het netwerk of als er iets misloopt met de server — dan ben jij degene die moet zoeken naar de oorzaak en een oplossing biedt.
 
-<p style="max-width: 97%;">Ik realiseer me nu dat samenwerking met verschillende teams essentieel is, aangezien de architect moet communiceren met zowel technische als niet-technische stakeholders. Daarnaast is het belangrijk om een goed begrip te hebben van de kostenstructuur van cloudservices en het vermogen om kosten-efficiënte oplossingen te bieden. Het beroep past goed bij mijn vaardigheden in netwerken, cloudtechnologieën en mijn passie voor het oplossen van complexe IT-uitdagingen.</p>
+Ik zie mezelf later werken in een functie waar ik zowel met techniek bezig ben als met mensen. Denk aan het beheren van systemen, het ondersteunen van collega’s of het helpen opzetten van een veilige IT-omgeving. De opleiding heeft me laten zien dat dit beroep veel afwisseling biedt en dat je altijd blijft bijleren, wat voor mij heel belangrijk is.</p>
 
 ## Mijn evolutie tijdens WPL1
 
