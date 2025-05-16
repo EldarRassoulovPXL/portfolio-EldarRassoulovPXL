@@ -13,10 +13,10 @@
 <p style="margin-left: 20px;margin-top: 35px;">
 <img src="./images/profile.jpg" alt="Your Image Badge" width="30%" align="right" style="margin-left: 0px; margin-right: 20px; margin-top: 3px;" />
 
-Name: Naam<br>
-Birth: Geboortedatum<br>
-E-mail: E-mail<br>
-Website: <a href="https://webpage...."> 🐙Linkedin 🐙</a><br><br>
+Name: Eldar Rassoulov<br>
+Birth: 05/07/1988<br>
+E-mail: Eldar.rassoulov@pxl.student.be<br>
+
 </p>
 
 ---
