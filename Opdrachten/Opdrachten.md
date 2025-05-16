@@ -1,14 +1,18 @@
 # Opdrachten
 
 <p style="max-width: 97%;">
-POP: AIM-Reflectie (Korte persoonlijke reflectieopdracht)
-POP: Planning en zelfsturing (Schematische planning voor school en zelfstudie)
-Test: Talstelsels (Test over deciamele, binaire, octale en hexadecimale talstelsels)
-Arbeidsmarkt: Carrièrekompas (Loopbaanplan opstellen)
-Opdracht ChatGPT en Ethiek (In een groep samenwerken om zo tot een besluit te komen over dit onderwerp)
-Opdracht Computerbouwen (In een willekeurige groep samenwerken om uiteindelijk een computer te bouwen in de praktijk)
-Actualiteit - schriftelijk (In een groep naar keuze een gegeven onderwerp te bespreken en tot een conclusie te komen)
-Actualiteit - presentatie (Het gegeven onderwerp voorleggen en presenteren aan de klas)</p>
+
+1. **POP: AIM-Reflectie** – Korte persoonlijke reflectieopdracht  
+2. **POP: Planning en zelfsturing** – Schematische planning voor school en zelfstudie  
+3. **Tests: Talstelsels** – Test over decimale, binaire, octale en hexadecimale talstelsels  
+4. **Arbeidsmarkt: Carrièrekompas** – Loopbaanplan opstellen  
+5. **Opdracht ChatGPT en Ethiek** – In groep samenwerken om tot een besluit te komen over dit onderwerp  
+6. **Opdracht Computerbouwen** – In groep een computer bouwen in de praktijk  
+7. **Actualiteit - schriftelijk** – Groepsoefening: onderwerp bespreken en conclusie formuleren  
+8. **Actualiteit - presentatie** – Onderwerp voorleggen en presenteren aan de klas  
+
+</p>
+
 
 ## Opdrachten WPL 1
 
