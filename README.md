@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ![pxl right](./images/pxl.png)
 # Portfolio
 ## Informatie <!-- {docsify-ignore} -->
@@ -42,4 +42,4 @@ Hier deel ik niet alleen mijn technische vaardigheden, maar ook mijn groei als I
 Je vindt hier mijn **cv**, een **logboek van mijn werkplekleren**, opdrachten waar ik trots op ben, en mijn eigen **reflectie op de afgelegde weg**.
 
 Veel leesplezier — en aarzel niet om contact op te nemen bij vragen of opmerkingen!
->>>>>>> 44a7b728b3c3248df21aec8decfc2f963c35aec0
+
