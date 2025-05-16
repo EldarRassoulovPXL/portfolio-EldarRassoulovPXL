@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 ![pxl right](./images/pxl.png)
 # Portfolio
