@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 * [Home](/)
 * Introductie
-  * [Inleiding](Intro/Intro.md)
+  * [Inleiding](Intro/intro.md)
   * [Persoonlijke info](Intro/persoonlijke-info.md)
 * [Logboek werkplekleren](./Logboek/Logboek.md)
 * [Overzicht Ontwikkelingsgesprekken](./Ontwikkelingsgesprekken/Ontwikkelingsgesprekken.md)
