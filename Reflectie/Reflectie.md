@@ -77,6 +77,19 @@ Sommige taken, zoals het instellen van GPO’s, vond ik in het begin complex, ma
 
 Deze stage gaf me meer vertrouwen in mijn kunnen en bevestigde mijn interesse in IT-beheer.
 
+## 🧠 Eindreflectie – WPL2 (Samenvatting)
+
+- 🖥️ Werken met **Veyon** voor computerbeheer in een klaslokaalomgeving  
+- 🛠️ Toepassen van **GPO (Group Policy Objects)** in een Windows-domein  
+- 🖨️ **Windows Printserver** opgezet en met succes getest  
+- 🧪 **FOG-server op Linux** gebruikt voor netwerkgebaseerde imaging  
+- ⚙️ **GPO was uitdagend**, maar enorm leerrijk en inzichtgevend  
+- 📈 Technische skills sterk verbeterd in zowel **Windows** als **Linux**  
+- 🤝 Soft skills aangescherpt: **communicatie**, **samenwerking**, **probleemoplossend denken**  
+- 👥 **Teamsamenwerking** verliep vlot en constructief  
+- 💪 Meer **zelfstandigheid** en **zelfvertrouw**
+
+
 ## Reflectie WPL 3
 
 ## Reflectie WPL 4
