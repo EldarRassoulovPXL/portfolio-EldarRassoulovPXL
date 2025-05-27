@@ -31,6 +31,56 @@ Tijdens WPL2 heb ik vooral gewerkt rond het beheren van computers en netwerken b
 💡 Let op: Om het bestand te openen, eerst uitpakken met 7-Zip (gratis te downloaden via https://www.7-zip.org/).
 
 
+# 📄 Eindrapportfragment WPL2 – Veyon in de klas
+
+**Naam:** Eldar Rassoulov
+**Klas:** 1SNEC 
+**Datum:** 24 mei 2025
+
+---
+
+## 🟢 1. Inleiding
+
+Tijdens mijn WPL2-stage heb ik gewerkt met **Veyon**, een programma waarmee je computers in een lokaal kunt beheren en opvolgen.  
+Ik koos dit als onderwerp voor mijn eindfragment omdat ik het heel praktisch vond en er veel bij geleerd heb.  
+Dit is een tool die in scholen heel nuttig is voor leerkrachten, en ik vond het fijn om te zien hoe je daarmee controle krijgt over meerdere computers tegelijk.
+
+---
+
+## 🔵 2. Wat heb ik gedaan met Veyon
+
+Ik heb Veyon geïnstalleerd en geconfigureerd op een Windows Server en op enkele clientcomputers. Daarna heb ik geleerd hoe je als leerkracht:
+
+- Schermen live kunt volgen  
+- Leerlingen tijdelijk het scherm kunt blokkeren  
+- Op afstand een computer kunt opstarten of afsluiten  
+- Berichten kunt sturen naar gebruikers  
+- Een demo kunt geven door je eigen scherm te delen
+
+
+---
+
+## 🔶 3. Moeilijkheden en oplossingen
+
+In het begin herkende Veyon sommige computers niet. Ik heb toen geleerd dat:
+
+- De Veyon-service actief moet zijn op elke client  
+- De firewall poorten open moeten staan  
+- Je hosts via IP of hostname goed moet instellen  
+
+Na deze aanpassingen werkte alles vlot.
+
+---
+
+## 📙 4. Fragment uit logboek
+
+Datum: 15 mei 2025
+Tijd: 14u30 – 16u00
+Activiteit: Veyon getest op WINLOK-101-PC5 en PC6. Problemen met verbinding opgelost via firewall instellingen en herstart service op clients.
+Opdracht: Monitoring + op afstand afsluiten getest.
+
+
+
 ## Opdrachten WPL 3
 
 ## Opdrachten WPL 4
