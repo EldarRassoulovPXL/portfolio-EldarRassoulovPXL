@@ -26,6 +26,11 @@ Ik vond het waardevol om te ervaren hoe iedereen anders denkt en werkt. In plaat
 
 Tijdens WPL2 heb ik vooral gewerkt rond het beheren van computers en netwerken binnen een schoolomgeving. Eén van de eerste dingen die ik leerde was hoe je met Veyon klaslokaalcomputers vanop afstand kunt volgen en bedienen. Daarna heb ik met groepsbeleid (GPO) gewerkt om instellingen op alle computers tegelijk aan te passen, wat handig is om structuur en orde te houden. Ik heb ook een printserver opgezet, zodat leerlingen en leerkrachten makkelijker en sneller kunnen printen. Daarnaast heb ik met FOG op Linux gewerkt, een systeem waarmee je in één keer meerdere pc’s kunt installeren via het netwerk. Al deze opdrachten gaven me een beter beeld van hoe ICT op school georganiseerd wordt, en ik ben er technisch en persoonlijk sterker van geworden.
 
+📎 [Download de gecomprimeerde presentatie (.7z)](./WPL2_Team_17_Demo_Presentatie.7z)
+
+💡 Let op: Om het bestand te openen, eerst uitpakken met 7-Zip (gratis te downloaden via https://www.7-zip.org/).
+
+
 ## Opdrachten WPL 3
 
 ## Opdrachten WPL 4
