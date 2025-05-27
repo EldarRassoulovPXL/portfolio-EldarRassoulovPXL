@@ -31,6 +31,8 @@ Tijdens WPL2 heb ik vooral gewerkt rond het beheren van computers en netwerken b
 💡 Let op: Om het bestand te openen, eerst uitpakken met 7-Zip (gratis te downloaden via https://www.7-zip.org/).
 
 
+---
+
 # 📄 Eindrapportfragment WPL2 – Veyon in de klas
 
 **Naam:** Eldar Rassoulov
@@ -78,6 +80,25 @@ Datum: 15 mei 2025
 Tijd: 14u30 – 16u00
 Activiteit: Veyon getest op WINLOK-101-PC5 en PC6. Problemen met verbinding opgelost via firewall instellingen en herstart service op clients.
 Opdracht: Monitoring + op afstand afsluiten getest.
+
+---
+
+## 🟡 5. Reflectie
+
+Ik vond Veyon één van de leukste en meest realistische tools om te leren.  
+Het gaf mij het gevoel dat ik echt als IT-beheerder controle had over het netwerk.  
+Ook het oplossen van netwerkproblemen bij de verbinding gaf me meer inzicht in hoe zulke tools werken.  
+Ik zou dit zeker opnieuw willen gebruiken in een echte schoolomgeving.
+
+---
+
+## 📎 6. Bijlagen (optioneel)
+
+- Volledige configuratiestappen in Veyon  
+- Instellingen voor de firewall (Windows Defender)  
+- Gebruikte gebruikersaccounts en testmachines
+
+---
 
 
 
