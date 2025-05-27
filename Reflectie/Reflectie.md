@@ -1,3 +1,5 @@
+## Reflectie WPL 1
+
 <h2>X-Factor Reflectie</h2>
 
 <p style="max-width: 97%;">
@@ -67,10 +69,13 @@ Ik wil graag meer praktijk doen rond netwerken, zoals echte configuraties uitvoe
 </p>
 
 
-
-## Reflectie WPL 1
-
 ## Reflectie WPL 2
+
+Tijdens WPL2 heb ik verschillende opdrachten uitgevoerd die mij technisch en persoonlijk hebben doen groeien. Zo heb ik gewerkt met Veyon, waarmee ik leerde hoe je computers in een klaslokaal efficiënt kunt monitoren en beheren. Daarnaast heb ik via GPO (Group Policy Objects) instellingen centraal leren beheren binnen een Windows-domein, wat mij inzicht gaf in het belang van structuur en veiligheid in een netwerk. Het opzetten van een Windows Printserver was een boeiende uitdaging, waarbij ik leerde hoe je printopdrachten centraal beheert en printers deelt binnen een netwerk. Ook heb ik met FOG op Linux gewerkt, waarmee ik voor het eerst ervaring opdeed met PXE-boot en het clonen van systemen via het netwerk.
+
+Sommige taken, zoals het instellen van GPO’s, vond ik in het begin complex, maar na oefenen begon het steeds meer te lukken. De samenwerking met mijn team verliep vlot; we vulden elkaar goed aan en konden taken verdelen naargelang onze sterktes. Technisch heb ik veel bijgeleerd over systeembeheer, netwerkstructuren en Linux-omgevingen. Qua soft skills ben ik gegroeid in communicatie, probleemoplossend denken en samenwerken onder druk.
+
+Deze stage gaf me meer vertrouwen in mijn kunnen en bevestigde mijn interesse in IT-beheer.
 
 ## Reflectie WPL 3
 
